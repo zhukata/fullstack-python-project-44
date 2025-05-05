@@ -7,7 +7,7 @@ const getName = () => {
 }
 
 
-export default () => {
+export const greetings = () => {
     console.log('Welcome to the Brain Games!')
     const name = getName()
     console.log( `Hello, ${name}`)
