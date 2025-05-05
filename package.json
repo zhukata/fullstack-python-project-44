@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/zhukata/fullstack-python-project-44#readme",
   "dependencies": {
+    "@stylistic/eslint-plugin": "^4.2.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
